@@ -1,0 +1,20 @@
+{
+  "name": "cjs-fresh-online-ordering",
+  "version": "1.0.0",
+  "private": true,
+  "description": "C.J.'s Gas Station pickup ordering website",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "stripe": "^17.7.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
