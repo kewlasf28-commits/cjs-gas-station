@@ -1,0 +1,212 @@
+[
+  {
+    "id": "chicken-tenders",
+    "name": "Chicken Tenders",
+    "description": "Crispy, hot and ready for pickup.",
+    "price": 7.99,
+    "category": "Hot Food",
+    "icon": "\ud83c\udf57",
+    "badge": "Popular"
+  },
+  {
+    "id": "chicken-wings",
+    "name": "Chicken Wings",
+    "description": "A tasty grab-and-go favorite.",
+    "price": 8.99,
+    "category": "Hot Food",
+    "icon": "\ud83c\udf57",
+    "badge": "Hot pick"
+  },
+  {
+    "id": "potato-wedges",
+    "name": "Seasoned Potato Wedges",
+    "description": "Golden, seasoned and satisfying.",
+    "price": 3.49,
+    "category": "Hot Food",
+    "icon": "\ud83c\udf5f"
+  },
+  {
+    "id": "breakfast-sandwich",
+    "name": "Breakfast Sandwich",
+    "description": "A quick start to your morning.",
+    "price": 4.99,
+    "category": "Hot Food",
+    "icon": "\ud83e\udd6a"
+  },
+  {
+    "id": "chips",
+    "name": "Bag of Chips",
+    "description": "Pick up a crunchy snack.",
+    "price": 2.49,
+    "category": "Snacks",
+    "icon": "\ud83e\udd54"
+  },
+  {
+    "id": "candy",
+    "name": "Candy Bar",
+    "description": "Something sweet for the road.",
+    "price": 1.99,
+    "category": "Snacks",
+    "icon": "\ud83c\udf6b"
+  },
+  {
+    "id": "soda",
+    "name": "Cold Soda",
+    "description": "Refreshing and ice cold.",
+    "price": 2.29,
+    "category": "Drinks",
+    "icon": "\ud83e\udd64"
+  },
+  {
+    "id": "water",
+    "name": "Bottled Water",
+    "description": "Grab one and keep moving.",
+    "price": 1.79,
+    "category": "Drinks",
+    "icon": "\ud83d\udca7"
+  },
+  {
+    "id": "energy",
+    "name": "Energy Drink",
+    "description": "Fuel for a busy day.",
+    "price": 3.49,
+    "category": "Drinks",
+    "icon": "\u26a1"
+  },
+  {
+    "id": "coffee",
+    "name": "Fresh Coffee",
+    "description": "Warm coffee for the road.",
+    "price": 2.19,
+    "category": "Drinks",
+    "icon": "\u2615"
+  },
+  {
+    "id": "cola",
+    "name": "Cola / Pepsi-style Soda",
+    "description": "Classic chilled cola; brand and size vary.",
+    "price": 2.49,
+    "category": "Drinks",
+    "icon": "\ud83e\udd64"
+  },
+  {
+    "id": "lemon-lime",
+    "name": "Lemon-Lime Soda",
+    "description": "Cold, crisp lemon-lime refreshment.",
+    "price": 2.49,
+    "category": "Drinks",
+    "icon": "\ud83c\udf4b"
+  },
+  {
+    "id": "sports-drink",
+    "name": "Sports Drink",
+    "description": "Grab a chilled hydration drink.",
+    "price": 2.99,
+    "category": "Drinks",
+    "icon": "\ud83c\udfc3"
+  },
+  {
+    "id": "iced-tea",
+    "name": "Iced Tea",
+    "description": "Chilled tea, assorted flavors.",
+    "price": 2.69,
+    "category": "Drinks",
+    "icon": "\ud83e\uddca"
+  },
+  {
+    "id": "juice",
+    "name": "Fruit Juice",
+    "description": "Single-serve juice selection.",
+    "price": 2.79,
+    "category": "Drinks",
+    "icon": "\ud83e\uddc3"
+  },
+  {
+    "id": "sparkling-water",
+    "name": "Sparkling Water",
+    "description": "Bubbly refreshment, assorted flavors.",
+    "price": 2.29,
+    "category": "Drinks",
+    "icon": "\ud83d\udca6"
+  },
+  {
+    "id": "milk",
+    "name": "Milk / Chocolate Milk",
+    "description": "Grab a cold carton or bottle.",
+    "price": 2.79,
+    "category": "Drinks",
+    "icon": "\ud83e\udd5b"
+  },
+  {
+    "id": "slush",
+    "name": "Frozen Slush Drink",
+    "description": "Cool off with a frozen favorite.",
+    "price": 3.49,
+    "category": "Drinks",
+    "icon": "\ud83e\uddca"
+  },
+  {
+    "id": "beer",
+    "name": "Beer Selection",
+    "description": "Ask in store for available domestic and imported beer.",
+    "category": "Beer & Alcohol",
+    "icon": "\ud83c\udf7a",
+    "inStoreOnly": true
+  },
+  {
+    "id": "tallboys",
+    "name": "Tall Cans & Singles",
+    "description": "Chilled beer singles; availability varies.",
+    "category": "Beer & Alcohol",
+    "icon": "\ud83c\udf7b",
+    "inStoreOnly": true
+  },
+  {
+    "id": "seltzer",
+    "name": "Hard Seltzers",
+    "description": "Assorted adult beverages; inquire in store.",
+    "category": "Beer & Alcohol",
+    "icon": "\ud83e\udd6b",
+    "inStoreOnly": true
+  },
+  {
+    "id": "wine",
+    "name": "Wine & Ready-to-Drink",
+    "description": "Ask staff about the in-store selection.",
+    "category": "Beer & Alcohol",
+    "icon": "\ud83c\udf77",
+    "inStoreOnly": true
+  },
+  {
+    "id": "vapes",
+    "name": "Vapes & E-Cigarettes",
+    "description": "Ask staff about available brands and flavors.",
+    "category": "Vapes & Tobacco",
+    "icon": "\ud83d\udca8",
+    "inStoreOnly": true
+  },
+  {
+    "id": "cigarettes",
+    "name": "Cigarettes",
+    "description": "Brands and pricing available at the counter.",
+    "category": "Vapes & Tobacco",
+    "icon": "\ud83d\udeac",
+    "inStoreOnly": true
+  },
+  {
+    "id": "cigars",
+    "name": "Cigars & Cigarillos",
+    "description": "Available at the counter; selection varies.",
+    "category": "Vapes & Tobacco",
+    "icon": "\ud83c\udff7\ufe0f",
+    "inStoreOnly": true
+  },
+  {
+    "id": "smokeless",
+    "name": "Smokeless Tobacco",
+    "description": "Ask about current in-store availability.",
+    "category": "Vapes & Tobacco",
+    "icon": "\ud83c\udff7\ufe0f",
+    "inStoreOnly": true
+  }
+]
